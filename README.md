@@ -5,7 +5,7 @@ This is a school project. A dynamic skateboarding e-commerce website created by 
 ### Project timeline
 - 13.02.2023 -> design database
              -> make sure that we have planned features and have also allocated tasks 
-- 09.3.23 -> deadline to code and finish the website
+- 09.03.23 -> deadline to code and finish the website
 
 ## Description:
 A dynamic skateboarding e-commerce website built using HTML, CSS, Bootstrap, php, phpmyadmin, javascript. This website showcases products, allows customer to add them to a cart for purchase, create and account, as a admin u can adding editing the products and categories.

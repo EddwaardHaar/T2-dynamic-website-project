@@ -47,6 +47,13 @@ https://www.figma.com/file/hiO5WhDgT8kKfPMi5cQKwO/Untitled?node-id=0-1
 3. Import the database file included in the repository (`database/skate_shop.sql`)to phpMyAdmin
 4. Update the database connection details in the databases folder `partials/db.php` file
 
+
+## What i learned during this project
+- work with a LAMP stack (Linux, Apache, MySQL & PHP)
+- create a dynamic web service using both front end and backend technologies.
+- take the appropriate security issues into account when building a dynamic web service.
+
+
 ## Future features to add:
 - Implement a search functionality for products
 - Improve website performance by optimizing code and database queries

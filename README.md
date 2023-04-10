@@ -21,12 +21,6 @@ https://www.figma.com/file/hiO5WhDgT8kKfPMi5cQKwO/Untitled?node-id=0-1
 - Admin panel for managing products, orders, and user accounts
 - Form validation for all forms on the website
 
-## Team Members:
-- Peter Harčar
-- Leyla Molnar
-- Andrei Susha
-- Arsenii Shevelev
-
 ## Usage
 1. Clone the repository to your local machine
 2. Set up a local server environment with PHP and phpMyAdmin
@@ -65,6 +59,12 @@ https://www.figma.com/file/hiO5WhDgT8kKfPMi5cQKwO/Untitled?node-id=0-1
 - Bootstrap (https://getbootstrap.com/)
 - Font Awesome (https://fontawesome.com/)
 - Unsplash (https://unsplash.com/) for the product images
+
+## Team Members:
+- Peter Harčar
+- Leyla Molnar
+- Andrei Susha
+- Arsenii Shevelev
 
 ## License:
 This project is licensed under the MIT License. See the `LICENSE` file for more information.

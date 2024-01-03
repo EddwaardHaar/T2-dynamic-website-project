@@ -3,7 +3,7 @@ This is a school project. A dynamic skateboarding e-commerce website created by 
 
 ##### 10.2.2023 (start) - 09.03.2023 (end)
 ### Project timeline
-- 20.1.2023 -> frontend phase https://github.com/EddwaardHaar/T2-static-website-project
+- 20.01.2023 -> frontend phase https://github.com/EddwaardHaar/T2-static-website-project
 - 13.02.2023 -> design database
              -> make sure that we have planned features and have also allocated tasks 
 - 09.03.23 -> deadline to code and finish the website
